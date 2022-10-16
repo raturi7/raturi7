@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://Ayroid.io)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Harsh Raturi</h1>
-<h3 align="center">3rd Year BTech Computer Science specialization in AIML Student at UPES.<br>Associate Technical Head at UPES CSI.</h3>
+<h3 align="center">3rd Year B.Tech Computer Science specialization in AIML Student at UPES.<br>Associate Technical Head at UPES CSI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raturi7&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
