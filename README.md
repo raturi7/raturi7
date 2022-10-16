@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raturi7&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
 <!--<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png">-->
-<img align="right" alt="codeit" width="280" style="border-radius:5px" src="https://github.com/raturi7/Images/blob/2158fd17d549c224311c7dcbb69d52095fc8b40b/codeit.gif">
+<img align="right" alt="codeit" width="270" style="border-radius:5px" src="https://github.com/raturi7/Images/blob/2158fd17d549c224311c7dcbb69d52095fc8b40b/codeit.gif">
 
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
 - ⚡ Interested in *Gaming & Machine Learning.*
