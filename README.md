@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush-singh-kushwah-0a42aa221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushsk0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushsk0000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/harsh-raturi-484833174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Raturi" height="30" width="40" /></a>
+<a href="https://leetcode.com/Harsh_Raturi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harsh Raturi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshraturi123?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Harsh Raturi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
